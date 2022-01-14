@@ -44,7 +44,7 @@ int main()
     int userPass;
     acnt.number = 1000;
     acnt.password= 1111;
-    acnt.data="Jessi,Let's cook!";
+    acnt.data=" Heisenberg Walter is White!";
     while(i!=1)
     {
         cout<<"\nEnter UserNo."<<endl;
